@@ -1,1 +1,42 @@
-ew0KICAgICJjb3VudCI6IDUsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICJlMmIyZDNhYy0zMTIxLTQ0MjgtOGIyNS02Nzk3ZDUyZGM2ODgiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJGaW5uaXNoIiwNCiAgICAgICAgICAgICJ0eXBlIjogIlNwZWVjaCIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9TcGVlY2gvRmlubmlzaC9lMmIyZDNhYy0zMTIxLTQ0MjgtOGIyNS02Nzk3ZDUyZGM2ODgvZTJiMmQzYWMtMzEyMS00NDI4LThiMjUtNjc5N2Q1MmRjNjg4Lm1wNCINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICAgImlkIjogImMxYzM0MGEyLWE5MTUtNDM3MS05ZDlmLTJjNzgwOWMyMjhkZCIsDQogICAgICAgICAgICAiY29sbGVjdGlvbklkIjogIkZpbm5pc2giLA0KICAgICAgICAgICAgInR5cGUiOiAiU3BlZWNoIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L1NwZWVjaC9GaW5uaXNoL2MxYzM0MGEyLWE5MTUtNDM3MS05ZDlmLTJjNzgwOWMyMjhkZC9jMWMzNDBhMi1hOTE1LTQzNzEtOWQ5Zi0yYzc4MDljMjI4ZGQubXA0Ig0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgICAiaWQiOiAiNjkxMGNkZGItOWU3Zi00ZTliLWExZGEtNWMyY2YwODU0NmFlIiwNCiAgICAgICAgICAgICJjb2xsZWN0aW9uSWQiOiAiRmlubmlzaCIsDQogICAgICAgICAgICAidHlwZSI6ICJTcGVlY2giLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvU3BlZWNoL0Zpbm5pc2gvNjkxMGNkZGItOWU3Zi00ZTliLWExZGEtNWMyY2YwODU0NmFlLzY5MTBjZGRiLTllN2YtNGU5Yi1hMWRhLTVjMmNmMDg1NDZhZS5tcDQiDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICIyMTdkZDQyMi04NDljLTRlMGUtYjU4OC02NWUyOTEyZWNlMTUiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJGaW5uaXNoIiwNCiAgICAgICAgICAgICJ0eXBlIjogIlNwZWVjaCIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9TcGVlY2gvRmlubmlzaC8yMTdkZDQyMi04NDljLTRlMGUtYjU4OC02NWUyOTEyZWNlMTUvMjE3ZGQ0MjItODQ5Yy00ZTBlLWI1ODgtNjVlMjkxMmVjZTE1Lm1wNCINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICAgImlkIjogImNkZjIwZDAzLTI0NzMtNDdkOC05NDJjLTJhNzdlMWExZWE3NyIsDQogICAgICAgICAgICAiY29sbGVjdGlvbklkIjogIkZpbm5pc2giLA0KICAgICAgICAgICAgInR5cGUiOiAiU3BlZWNoIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L1NwZWVjaC9GaW5uaXNoL2NkZjIwZDAzLTI0NzMtNDdkOC05NDJjLTJhNzdlMWExZWE3Ny9jZGYyMGQwMy0yNDczLTQ3ZDgtOTQyYy0yYTc3ZTFhMWVhNzcubXA0Ig0KICAgICAgICB9DQogICAgXQ0KfQ==
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "e2b2d3ac-3121-4428-8b25-6797d52dc688",
+            "collectionId": "Finnish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Finnish/Finnish_Speech/e2b2d3ac-3121-4428-8b25-6797d52dc688/e2b2d3ac-3121-4428-8b25-6797d52dc688_fi_Female.mp4"
+        },
+        {
+            "id": "c1c340a2-a915-4371-9d9f-2c7809c228dd",
+            "collectionId": "Finnish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Finnish/Finnish_Speech/c1c340a2-a915-4371-9d9f-2c7809c228dd/c1c340a2-a915-4371-9d9f-2c7809c228dd_fi_Female.mp4"
+        },
+        {
+            "id": "6910cddb-9e7f-4e9b-a1da-5c2cf08546ae",
+            "collectionId": "Finnish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Finnish/Finnish_Speech/6910cddb-9e7f-4e9b-a1da-5c2cf08546ae/6910cddb-9e7f-4e9b-a1da-5c2cf08546ae_fi_Female.mp4"
+        },
+        {
+            "id": "217dd422-849c-4e0e-b588-65e2912ece15",
+            "collectionId": "Finnish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Finnish/Finnish_Speech/217dd422-849c-4e0e-b588-65e2912ece15/217dd422-849c-4e0e-b588-65e2912ece15_fi_Female.mp4"
+        },
+        {
+            "id": "cdf20d03-2473-47d8-942c-2a77e1a1ea77",
+            "collectionId": "Finnish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Finnish/Finnish_Speech/cdf20d03-2473-47d8-942c-2a77e1a1ea77/cdf20d03-2473-47d8-942c-2a77e1a1ea77_fi_Female.mp4"
+        }
+    ]
+}
