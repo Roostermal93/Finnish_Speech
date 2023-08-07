@@ -1,8 +1,15 @@
 {
-    "count": 5,
+    "count": 8,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "59e45d3b-153d-4720-95cb-d62e6432e468",
+            "collectionId": "Finnish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Finnish/59e45d3b-153d-4720-95cb-d62e6432e468_fi_Female.mp4"
+        },
         {
             "id": "e2b2d3ac-3121-4428-8b25-6797d52dc688",
             "collectionId": "Finnish",
@@ -18,6 +25,13 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Finnish/c1c340a2-a915-4371-9d9f-2c7809c228dd_fi_Female.mp4"
         },
         {
+            "id": "f32440c9-55b8-46e0-9857-c2a305a35287",
+            "collectionId": "Finnish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Finnish/f32440c9-55b8-46e0-9857-c2a305a35287_fi_Female.mp4"
+        },
+        {
             "id": "6910cddb-9e7f-4e9b-a1da-5c2cf08546ae",
             "collectionId": "Finnish",
             "type": "Speech",
@@ -30,6 +44,13 @@
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Finnish/217dd422-849c-4e0e-b588-65e2912ece15_fi_Female.mp4"
+        },
+        {
+            "id": "460d4584-6668-4e4a-8fed-4736fb9732bd",
+            "collectionId": "Finnish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Finnish/460d4584-6668-4e4a-8fed-4736fb9732bd_fi_Male.mp4"
         },
         {
             "id": "cdf20d03-2473-47d8-942c-2a77e1a1ea77",
